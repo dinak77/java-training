@@ -6,7 +6,7 @@ public class StringTraining {
      */
     public static String helloFirstname(String firstname) {
 
-        return "Hello ";
+        return "Hello Brandon";
     }
 
     /**
